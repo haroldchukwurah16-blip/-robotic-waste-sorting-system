@@ -2,7 +2,7 @@
 
 A university team project at Maynooth University exploring automated waste collection and sorting using the Makeblock Ultimate 2.0 kit, sensors and C++ control logic.
 
-![Robot and supporting sensor setup](images/robot-overview.jpeg)
+![Robot and supporting sensor setup](robot-overview.jpeg)
 
 ## Project overview
 
@@ -49,15 +49,15 @@ No numerical sorting-accuracy or reliability benchmark is presented here.
 
 ### Front view and distance sensors
 
-![Front view showing gripper and distance sensors](images/robot-front.jpeg)
+![Front view showing gripper and distance sensors](robot-front.jpeg)
 
 ### Arm mechanism and electronics
 
-![Arm mechanism and integrated electronics](images/robot-integration.jpeg)
+![Arm mechanism and integrated electronics](robot-integration.jpeg)
 
 ### Controller and wiring
 
-![Makeblock controller and connections](images/robot-controller.jpeg)
+![Makeblock controller and connections](robot-controller.jpeg)
 
 ## Repository status
 
